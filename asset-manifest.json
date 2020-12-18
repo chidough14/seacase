@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/seacase/map/static/css/main.ec226770.chunk.css",
-    "main.js": "/seacase/map/static/js/main.2e2ee2f1.chunk.js",
-    "main.js.map": "/seacase/map/static/js/main.2e2ee2f1.chunk.js.map",
-    "runtime-main.js": "/seacase/map/static/js/runtime-main.7a99e431.js",
-    "runtime-main.js.map": "/seacase/map/static/js/runtime-main.7a99e431.js.map",
-    "static/css/2.63c3720a.chunk.css": "/seacase/map/static/css/2.63c3720a.chunk.css",
-    "static/js/2.7826ebb9.chunk.js": "/seacase/map/static/js/2.7826ebb9.chunk.js",
-    "static/js/2.7826ebb9.chunk.js.map": "/seacase/map/static/js/2.7826ebb9.chunk.js.map",
-    "static/js/3.516819ed.chunk.js": "/seacase/map/static/js/3.516819ed.chunk.js",
-    "static/js/3.516819ed.chunk.js.map": "/seacase/map/static/js/3.516819ed.chunk.js.map",
-    "index.html": "/seacase/map/index.html",
-    "static/css/2.63c3720a.chunk.css.map": "/seacase/map/static/css/2.63c3720a.chunk.css.map",
-    "static/css/main.ec226770.chunk.css.map": "/seacase/map/static/css/main.ec226770.chunk.css.map",
-    "static/js/2.7826ebb9.chunk.js.LICENSE.txt": "/seacase/map/static/js/2.7826ebb9.chunk.js.LICENSE.txt"
+    "main.css": "/seacase/static/css/main.ec226770.chunk.css",
+    "main.js": "/seacase/static/js/main.2e2ee2f1.chunk.js",
+    "main.js.map": "/seacase/static/js/main.2e2ee2f1.chunk.js.map",
+    "runtime-main.js": "/seacase/static/js/runtime-main.ccc95b5d.js",
+    "runtime-main.js.map": "/seacase/static/js/runtime-main.ccc95b5d.js.map",
+    "static/css/2.63c3720a.chunk.css": "/seacase/static/css/2.63c3720a.chunk.css",
+    "static/js/2.407ceb85.chunk.js": "/seacase/static/js/2.407ceb85.chunk.js",
+    "static/js/2.407ceb85.chunk.js.map": "/seacase/static/js/2.407ceb85.chunk.js.map",
+    "static/js/3.516819ed.chunk.js": "/seacase/static/js/3.516819ed.chunk.js",
+    "static/js/3.516819ed.chunk.js.map": "/seacase/static/js/3.516819ed.chunk.js.map",
+    "index.html": "/seacase/index.html",
+    "static/css/2.63c3720a.chunk.css.map": "/seacase/static/css/2.63c3720a.chunk.css.map",
+    "static/css/main.ec226770.chunk.css.map": "/seacase/static/css/main.ec226770.chunk.css.map",
+    "static/js/2.407ceb85.chunk.js.LICENSE.txt": "/seacase/static/js/2.407ceb85.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7a99e431.js",
+    "static/js/runtime-main.ccc95b5d.js",
     "static/css/2.63c3720a.chunk.css",
-    "static/js/2.7826ebb9.chunk.js",
+    "static/js/2.407ceb85.chunk.js",
     "static/css/main.ec226770.chunk.css",
     "static/js/main.2e2ee2f1.chunk.js"
   ]
